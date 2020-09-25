@@ -1,0 +1,17 @@
+.calendar{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+}
+.date-time{
+    display: flex;
+}
+.main-container{
+    display: flex;
+    margin-top: 100px;
+}
+.textPart{
+    width: 50%;
+    margin: 50px;
+}

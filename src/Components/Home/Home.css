@@ -1,0 +1,10 @@
+body {
+    
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://i.ibb.co/KbzpL6z/Rectangle-1.png');
+    color: linear-gradient( rgba(0, 0, 0, 10), rgba(0, 0, 0, 10));
+    height: 900px;
+    background-position: center center;
+    background-size: 100% 100%;
+    
+
+}

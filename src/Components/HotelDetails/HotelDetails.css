@@ -1,0 +1,7 @@
+.hotel-main-container{
+    display: flex;
+}
+.hotelPart{
+    display: flex;
+    width: 70%;
+}
